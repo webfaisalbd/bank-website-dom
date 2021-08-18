@@ -9,7 +9,7 @@ document.getElementById('login-submit').addEventListener('click', function () {
     // window.location.href = 'banking.html';
 
     // check email and password
-    if (userEmail == 'ok' && userPassword == '123') {
+    if (userEmail == 'admin' && userPassword == 'admin') {
         window.location.href = 'banking.html';
     }
 
